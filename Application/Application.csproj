@@ -19,9 +19,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\Loans\" />
-    <Folder Include="Models\Users\" />
-    <Folder Include="Services\" />
     <Folder Include="Resources\" />
   </ItemGroup>
 
