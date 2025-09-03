@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\models\\books\\addcopiesavailablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\models\\books\\addcopiesavailablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\models\\bookings\\createbookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\models\\bookings\\createbookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\models\\books\\updatebookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\models\\books\\updatebookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,27 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddCopiesAvailableModel.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Models\\Books\\AddCopiesAvailableModel.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\Books\\AddCopiesAvailableModel.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Models\\Books\\AddCopiesAvailableModel.cs",
-              "RelativeToolTip": "Application\\Models\\Books\\AddCopiesAvailableModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T19:57:07.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateBookingModel.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Models\\Bookings\\CreateBookingModel.cs",
-              "RelativeDocumentMoniker": "Application\\Models\\Bookings\\CreateBookingModel.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Models\\Bookings\\CreateBookingModel.cs",
-              "RelativeToolTip": "Application\\Models\\Bookings\\CreateBookingModel.cs",
+              "Title": "UpdateBookModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Models\\Books\\UpdateBookModel.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\Books\\UpdateBookModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Models\\Books\\UpdateBookModel.cs",
+              "RelativeToolTip": "Application\\Models\\Books\\UpdateBookModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T19:56:40.914Z",
+              "WhenOpened": "2025-09-03T14:59:32.162Z",
               "EditorCaption": ""
             }
           ]
