@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\bookings\\impl\\createbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\bookings\\impl\\createbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\books\\imp\\createbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\books\\imp\\createbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\bookings\\icreatebooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\bookings\\icreatebooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\books\\icreatebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\books\\icreatebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\books\\imp\\addcopiesavailablesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\books\\imp\\addcopiesavailablesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\books\\iaddcopiesavailableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\books\\iaddcopiesavailableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,27 +43,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateBooking.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Bookings\\Impl\\CreateBooking.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Bookings\\Impl\\CreateBooking.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Bookings\\Impl\\CreateBooking.cs",
-              "RelativeToolTip": "Application\\Services\\Bookings\\Impl\\CreateBooking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Title": "CreateBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Books\\Imp\\CreateBookService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Books\\Imp\\CreateBookService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Books\\Imp\\CreateBookService.cs",
+              "RelativeToolTip": "Application\\Services\\Books\\Imp\\CreateBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T17:06:00.057Z",
+              "WhenOpened": "2025-09-03T20:23:48.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ICreateBooking.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Bookings\\ICreateBooking.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Bookings\\ICreateBooking.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Bookings\\ICreateBooking.cs",
-              "RelativeToolTip": "Application\\Services\\Bookings\\ICreateBooking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Title": "ICreateBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Books\\ICreateBookService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Books\\ICreateBookService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Books\\ICreateBookService.cs",
+              "RelativeToolTip": "Application\\Services\\Books\\ICreateBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T17:00:14.802Z",
+              "WhenOpened": "2025-09-03T20:10:54.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCopiesAvailablesService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Books\\Imp\\AddCopiesAvailablesService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Books\\Imp\\AddCopiesAvailablesService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Books\\Imp\\AddCopiesAvailablesService.cs",
+              "RelativeToolTip": "Application\\Services\\Books\\Imp\\AddCopiesAvailablesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T20:03:54.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAddCopiesAvailableService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Books\\IAddCopiesAvailableService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Books\\IAddCopiesAvailableService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Books\\IAddCopiesAvailableService.cs",
+              "RelativeToolTip": "Application\\Services\\Books\\IAddCopiesAvailableService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T20:03:05.16Z",
               "EditorCaption": ""
             }
           ]

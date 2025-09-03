@@ -9,9 +9,16 @@ namespace Application.Services.Bookings.Impl
 		private readonly IRepositoryAsync<Booking> BookingRepository = bookingRepository;
 		private readonly IRepositoryAsync<Copy> CopyRepository = copyRepository;
 
-		public Task<Booking> CreateBookingAsync(CreateBookingModel createBookingModel)
+		public async Task<Booking> CreateBookingAsync(CreateBookingModel createBookingModel)
 		{
-			throw new NotImplementedException();
+			Copy copy = await CopyRepository.GetById(createBookingModel.CopyId);
+			if (copy.Available == false)
+				throw new Exception();
+			copy.Available = false;
+			await CopyRepository.Update(copy);
+			Booking booking = new(Guid.NewGuid(), createBookingModel.UserId, createBookingModel.CopyId, createBookingModel.BookingDate);
+			await BookingRepository.Insert(booking);
+			return booking;
 		}
 	}
 }
