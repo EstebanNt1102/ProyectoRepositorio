@@ -1,12 +1,8 @@
 ﻿namespace Application.Models.Loans
 {
-	public class UpdateBookModel
+	public class CreateLoanModel
 	{
-		public Guid BookId { get; set; }
-		public string? Title { get; set; }
-		public Guid AuthorId { get; set; }
-		public string? Isbn { get; set; }
-		public int YearCreated { get; set; }
-		public Guid CategoryId { get; set; }
+		public Guid CopyId { get; set; }
+		public Guid UserId { get; set; }
 	}
 }

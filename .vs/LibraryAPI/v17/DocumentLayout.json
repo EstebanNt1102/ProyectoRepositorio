@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\books\\imp\\createbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\books\\imp\\createbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\loans\\imp\\returnloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\loans\\imp\\returnloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\books\\icreatebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\books\\icreatebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\loans\\ireturnloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\loans\\ireturnloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\books\\imp\\addcopiesavailablesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\books\\imp\\addcopiesavailablesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\loans\\imp\\getbyidloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\loans\\imp\\getbyidloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\books\\iaddcopiesavailableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\books\\iaddcopiesavailableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\loans\\igetbyidloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\loans\\igetbyidloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,59 +37,55 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateBookService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Books\\Imp\\CreateBookService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Books\\Imp\\CreateBookService.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Books\\Imp\\CreateBookService.cs",
-              "RelativeToolTip": "Application\\Services\\Books\\Imp\\CreateBookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "ReturnLoan.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Loans\\Imp\\ReturnLoan.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Loans\\Imp\\ReturnLoan.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Loans\\Imp\\ReturnLoan.cs",
+              "RelativeToolTip": "Application\\Services\\Loans\\Imp\\ReturnLoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T20:23:48.917Z",
+              "WhenOpened": "2025-09-04T14:01:18.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ICreateBookService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Books\\ICreateBookService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Books\\ICreateBookService.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Books\\ICreateBookService.cs",
-              "RelativeToolTip": "Application\\Services\\Books\\ICreateBookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Title": "IReturnLoan.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Loans\\IReturnLoan.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Loans\\IReturnLoan.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Loans\\IReturnLoan.cs",
+              "RelativeToolTip": "Application\\Services\\Loans\\IReturnLoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T20:10:54.598Z",
+              "WhenOpened": "2025-09-04T14:01:01.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AddCopiesAvailablesService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Books\\Imp\\AddCopiesAvailablesService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Books\\Imp\\AddCopiesAvailablesService.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Books\\Imp\\AddCopiesAvailablesService.cs",
-              "RelativeToolTip": "Application\\Services\\Books\\Imp\\AddCopiesAvailablesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Title": "GetByIdLoan.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Loans\\Imp\\GetByIdLoan.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Loans\\Imp\\GetByIdLoan.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Loans\\Imp\\GetByIdLoan.cs",
+              "RelativeToolTip": "Application\\Services\\Loans\\Imp\\GetByIdLoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T20:03:54.921Z",
+              "WhenOpened": "2025-09-04T13:58:24.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IAddCopiesAvailableService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Books\\IAddCopiesAvailableService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Books\\IAddCopiesAvailableService.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Books\\IAddCopiesAvailableService.cs",
-              "RelativeToolTip": "Application\\Services\\Books\\IAddCopiesAvailableService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Title": "IGetByIdLoan.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Loans\\IGetByIdLoan.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Loans\\IGetByIdLoan.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Loans\\IGetByIdLoan.cs",
+              "RelativeToolTip": "Application\\Services\\Loans\\IGetByIdLoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T20:03:05.16Z",
+              "WhenOpened": "2025-09-04T13:57:48.768Z",
               "EditorCaption": ""
             }
           ]

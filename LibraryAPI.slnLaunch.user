@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "LibraryAPI\\LibraryAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

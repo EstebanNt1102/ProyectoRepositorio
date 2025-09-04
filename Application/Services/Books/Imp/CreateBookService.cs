@@ -19,6 +19,5 @@ namespace Application.Services.Books.Imp
 			Book book = Book.Create(Guid.NewGuid(), createBookModel.Title, createBookModel.AuthorId, createBookModel.Isbn, createBookModel.YearCreated, createBookModel.CategoryId);
 			return await Repository.Insert(book);
 		}
-
 	}
 }
