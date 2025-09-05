@@ -1,5 +1,6 @@
 ﻿using Application.Constanst;
 using Application.Models.Loans;
+using Application.Resources;
 using Domain.Entities;
 using Domain.Patters;
 
@@ -12,9 +13,9 @@ namespace Application.Services.Loans.Imp
 
 		public async Task<Loan> CreateLoansAsync(CreateLoanModel createLoanModel)
 		{
-			Copy copy = await CopyRepository.GetById(createLoanModel.CopyId) ?? throw new Exception();
+			Copy copy = await CopyRepository.GetById(createLoanModel.CopyId) ?? throw new Exception(ResourcesMessages.NotFoundCopy);
 			if (copy.Available == false)
-				throw new Exception();
+				throw new Exception(ResourcesMessages.CopyNotAvailable);
 			copy.Available = false;
 			await CopyRepository.Update(copy);
 			DateTime currentDay = DateTime.UtcNow;

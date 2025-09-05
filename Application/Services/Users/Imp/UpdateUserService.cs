@@ -1,4 +1,5 @@
 ﻿using Application.Models.Users;
+using Application.Resources;
 using Domain.Entities;
 using Domain.Patters;
 
@@ -10,7 +11,7 @@ namespace Application.Services.Users.Imp
 
 		public async Task<User> UpdateUserAsync(UpdateUserModel updateUserModel)
 		{
-			Domain.Entities.User user = await Repository.GetById(updateUserModel.UserId) ?? throw new Exception();
+			User user = await Repository.GetById(updateUserModel.UserId) ?? throw new Exception(ResourcesMessages.NotFoundUser);
 			user.Update(user.Name, user.Email, user.Role);
 			return await Repository.Insert(user);
 		}

@@ -1,4 +1,5 @@
 ﻿using Application.Models.Bookings;
+using Application.Resources;
 using Domain.Entities;
 using Domain.Patters;
 
@@ -13,7 +14,7 @@ namespace Application.Services.Bookings.Impl
 		{
 			Copy copy = await CopyRepository.GetById(createBookingModel.CopyId);
 			if (copy.Available == false)
-				throw new Exception();
+				throw new Exception(ResourcesMessages.CopyNotAvailable);
 			copy.Available = false;
 			await CopyRepository.Update(copy);
 			Booking booking = new(Guid.NewGuid(), createBookingModel.UserId, createBookingModel.CopyId, createBookingModel.BookingDate);

@@ -1,4 +1,5 @@
 ﻿using Application.Models.Books;
+using Application.Resources;
 using Domain.Entities;
 using Domain.Patters;
 
@@ -12,9 +13,9 @@ namespace Application.Services.Books.Imp
 		private readonly IRepositoryAsync<Category> CategoryRepository = categoryRepository;
 		public async Task<Book> CreateBookAsync(CreateBookModel createBookModel)
 		{
-			Author author = await AuthorRepository.GetById(createBookModel.AuthorId) ?? throw new Exception();
+			Author author = await AuthorRepository.GetById(createBookModel.AuthorId) ?? throw new Exception(ResourcesMessages.NotFoundAuthor);
 
-			Category category = await CategoryRepository.GetById(createBookModel.CategoryId) ?? throw new Exception();
+			Category category = await CategoryRepository.GetById(createBookModel.CategoryId) ?? throw new Exception(ResourcesMessages.NotFoundCategory);
 
 			Book book = Book.Create(Guid.NewGuid(), createBookModel.Title, createBookModel.AuthorId, createBookModel.Isbn, createBookModel.YearCreated, createBookModel.CategoryId);
 			return await Repository.Insert(book);

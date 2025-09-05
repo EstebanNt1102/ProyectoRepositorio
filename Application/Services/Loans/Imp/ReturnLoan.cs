@@ -1,4 +1,5 @@
 ﻿using Application.Constanst;
+using Application.Resources;
 using Domain.Entities;
 using Domain.Patters;
 
@@ -11,8 +12,8 @@ namespace Application.Services.Loans.Imp
 
 		public async Task<double> ReturnLoanAsync(Guid id)
 		{
-			Loan loan = await LoanRepository.GetById(id) ?? throw new Exception();
-			Copy copy = await CopyRepository.GetById(loan.CopyId) ?? throw new Exception();
+			Loan loan = await LoanRepository.GetById(id) ?? throw new Exception(ResourcesMessages.NotFoundLoan);
+			Copy copy = await CopyRepository.GetById(loan.CopyId) ?? throw new Exception(ResourcesMessages.NotFoundCopy);
 			copy.Available = true;
 			await LoanRepository.Update(loan);
 			if (DateTime.UtcNow <= loan.ReturnDate)

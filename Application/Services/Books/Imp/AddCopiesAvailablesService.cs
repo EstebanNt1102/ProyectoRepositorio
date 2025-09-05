@@ -1,4 +1,5 @@
 ﻿using Application.Models.Books;
+using Application.Resources;
 using Domain.Entities;
 using Domain.Patters;
 
@@ -8,7 +9,7 @@ namespace Application.Services.Books.Imp
 	{
 		public async Task<Book> CopiesAvalableAsync(AddCopiesAvailabeModel addCopiesAvailabeModel)
 		{
-			Book book = await repository.GetById(addCopiesAvailabeModel.Id) ?? throw new Exception();
+			Book book = await repository.GetById(addCopiesAvailabeModel.Id) ?? throw new Exception(ResourcesMessages.NotFoundCopy);
 			for (int i = 0; i < addCopiesAvailabeModel.Copies; i++)
 			{
 				Copy copyToCreate = new(book.Id);
