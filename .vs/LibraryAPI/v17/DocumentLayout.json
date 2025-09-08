@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\users\\imp\\updateuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\users\\imp\\updateuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\libraryapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\libraryapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UpdateUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Users\\Imp\\UpdateUserService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Users\\Imp\\UpdateUserService.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Users\\Imp\\UpdateUserService.cs",
-              "RelativeToolTip": "Application\\Services\\Users\\Imp\\UpdateUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T16:54:56.088Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -36,6 +27,36 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "LibraryAPI\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T14:46:19.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryAPI\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T14:24:41.172Z",
+              "EditorCaption": ""
             }
           ]
         },

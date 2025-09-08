@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\users\\imp\\getbyiduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\users\\imp\\getbyiduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\users\\imp\\updateuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\users\\imp\\updateuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\services\\users\\imp\\getalluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\services\\users\\imp\\getalluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Users\\Imp\\UpdateUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Users\\Imp\\UpdateUserService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Users\\Imp\\UpdateUserService.cs",
+              "RelativeToolTip": "Application\\Services\\Users\\Imp\\UpdateUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T16:54:56.088Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -31,45 +36,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Users\\Imp\\UpdateUserService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Users\\Imp\\UpdateUserService.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Users\\Imp\\UpdateUserService.cs",
-              "RelativeToolTip": "Application\\Services\\Users\\Imp\\UpdateUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T19:56:59.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetByIdUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Users\\Imp\\GetByIdUserService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Users\\Imp\\GetByIdUserService.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Users\\Imp\\GetByIdUserService.cs",
-              "RelativeToolTip": "Application\\Services\\Users\\Imp\\GetByIdUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T19:56:20.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetAllUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Users\\Imp\\GetAllUserService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Users\\Imp\\GetAllUserService.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Services\\Users\\Imp\\GetAllUserService.cs",
-              "RelativeToolTip": "Application\\Services\\Users\\Imp\\GetAllUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T17:18:03.122Z",
-              "EditorCaption": ""
             }
           ]
         },
