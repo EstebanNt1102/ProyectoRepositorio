@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\libraryapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\libraryapi\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\libraryapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LibraryAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T19:18:30.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "LibraryAPI\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwCoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T19:13:04.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\BookingController.cs",
@@ -47,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\BookController.cs",
