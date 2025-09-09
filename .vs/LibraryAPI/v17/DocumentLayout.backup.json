@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\libraryapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79CBDF0E-E39B-466A-AD09-DC55B4C6684A}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\libraryapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E3625CA-9AA2-43CA-8BEE-61A56E24CB78}|Infrastructure\\Infrastructure.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E3625CA-9AA2-43CA-8BEE-61A56E24CB78}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A146F3-CBF2-47C4-9226-8559C61CB045}|Domain\\Domain.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42A146F3-CBF2-47C4-9226-8559C61CB045}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\libraryapi\\libraryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\libraryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\asus\\source\\repos\\libraryapi\\libraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0886DA33-711D-4670-8E8C-E108E4AE1D4B}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,33 +41,68 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-09T16:34:19.168Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\BookingController.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\BookingController.cs",
-              "RelativeToolTip": "LibraryAPI\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T14:46:19.864Z",
+              "DocumentIndex": 2,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-09T16:34:08.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\BookController.cs",
-              "RelativeToolTip": "LibraryAPI\\Controllers\\BookController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-09T16:33:53.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryAPI",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
+              "RelativeDocumentMoniker": "LibraryAPI\\LibraryAPI.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\LibraryAPI.csproj",
+              "RelativeToolTip": "LibraryAPI\\LibraryAPI.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-09T16:31:22.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\LibraryAPI\\LibraryAPI\\Program.cs",
+              "RelativeToolTip": "LibraryAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T14:24:41.172Z",
+              "WhenOpened": "2025-09-09T16:14:59.871Z",
               "EditorCaption": ""
             }
           ]

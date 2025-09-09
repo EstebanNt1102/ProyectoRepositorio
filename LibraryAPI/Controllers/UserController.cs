@@ -36,7 +36,7 @@ namespace LibraryAPI.Controllers
 		public async Task<User> GetByIdUserAsync(Guid id)
 		{
 			User user = await GetByIdUserService.GetByIdAsync(id);
-			return user;
+			return user; 
 		}
 
 		[HttpGet("filter")]
