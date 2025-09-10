@@ -3,7 +3,7 @@ using Domain.Patters;
 
 namespace Application.Services.Loans.Imp
 {
-	internal class GetByIdLoan : IGetByIdLoan
+	public class GetByIdLoan : IGetByIdLoan
 	{
 		private readonly IRepositoryAsync<Loan> Repository;
 

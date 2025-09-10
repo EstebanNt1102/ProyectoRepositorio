@@ -5,7 +5,7 @@ using Domain.Patters;
 
 namespace Application.Services.Books.Imp
 {
-	internal class AddCopiesAvailablesService(IRepositoryAsync<Book>repository,  IRepositoryAsync<Copy> repositoryCopy) : IAddCopiesAvailableService
+	public class AddCopiesAvailablesService(IRepositoryAsync<Book>repository,  IRepositoryAsync<Copy> repositoryCopy) : IAddCopiesAvailableService
 	{
 		public async Task<Book> CopiesAvalableAsync(AddCopiesAvailabeModel addCopiesAvailabeModel)
 		{
